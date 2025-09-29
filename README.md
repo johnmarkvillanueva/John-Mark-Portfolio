@@ -1,5 +1,5 @@
 # Short bio
-vsgdbhabdhgdygdhgyewd
+ Immmortal
 # list of portfolio sections
 * Home
 * About Me
@@ -13,5 +13,5 @@ vsgdbhabdhgdygdhgyewd
 * Vs Code
 
 # Contacts
-* gmail:
+* gmail: johnmarkvillanueva710@gmail.com
 * github: https://github.com/johnmarkvillanueva/John-Mark-Portfolio
